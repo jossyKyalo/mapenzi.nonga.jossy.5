@@ -1,4 +1,5 @@
-
+
+
 ; Defining a template for tomato diseases
 (deftemplate tomato-disease
    (slot name)
